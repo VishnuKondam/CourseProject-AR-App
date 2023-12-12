@@ -1,1 +1,1 @@
-# CourseProject-AR-App
+This application utilizes augmented reality technology to provide users with an immersive experience for exploring detailed 3D models of various items. The primary objective is to enhance the ease and convenience of the purchasing process by allowing users to virtually interact with products before making a decision
